@@ -1,5 +1,5 @@
-![Preview](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/preview.png)
-# GoIndex Extended - Google Drive Index
+![Preview](https://telegra.ph/file/5fb562b73c1f6d732e474.png)
+# Swifties World 
 
 [![Author: Cheems](https://img.shields.io/badge/Author-cheems-blue.svg)](https://github.com/cheems)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
