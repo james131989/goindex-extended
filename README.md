@@ -4,7 +4,7 @@
 
 **Archive of Taylor Content**
 
-### [Telegram Channel](https://t.me/Taylorswift13fanpage)  ## [Telegram Group](t.me/swiftiesworld)
+### [Telegram Channel](https://t.me/Taylorswift13fanpage)  ### [Telegram Group](t.me/swiftiesworld)
 
 ### 🚨If you want to Access the Google drive of the arhive, follow the steps below
 
