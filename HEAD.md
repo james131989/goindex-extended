@@ -4,7 +4,7 @@
 
 **Archive of Taylor Content**
 
-**[🔈Telegram Channel](https://t.me/Taylorswift13fanpage)**        **[🎤Discography](https://t.me/taylorflac)**
+**[🔈Telegram Channel](https://t.me/Taylorswift13fanpage)**&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;**[🎤Discography](https://t.me/taylorflac)**
 
 **[👥Telegram Group](https://t.me/swiftiesworld)**
 
@@ -32,7 +32,9 @@
 **🗃Total Size: 1.16 TB**
 **📂Sub Folders: 824**
 **📁Files: 6823**
-&nbsp;&nbsp;&nbsp;&nbsp;**Created By [James](https://t.me/TayLife)**
+
+
+**Created By [James](https://t.me/TayLife)**
 
 
 
