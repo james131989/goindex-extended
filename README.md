@@ -6,11 +6,11 @@
 
 ### 🚨If you want to Access the Google drive of the arhive, follow the steps below
 
-1) Join this google group https://groups.google.com/g/swiftiesworld/
+1) Join this [google group](https://groups.google.com/g/swiftiesworld)
 
-2) Then check your Shared Drive (https://drive.google.com/drive/u/0/shared-drives) section in the Google Drive app/Browser.
+2) Then check your [Shared Drive](https://drive.google.com/drive/u/0/shared-drives) section in the Google Drive app/Browser.
 
-❗️It is important to join the group (https://groups.google.com/g/swiftiesworld/) for accessing the google drive.
+####❗️It is important to join the group (https://groups.google.com/g/swiftiesworld/) for accessing the google drive.
 
 📜Contents of the drive 
 - Songs (Tidal/ Qobuz/ Dolby)
