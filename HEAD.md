@@ -6,7 +6,7 @@
 
 **[🔈Telegram Channel](https://t.me/Taylorswift13fanpage)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[🎤Discography](https://t.me/taylorflac)**
 
-**[👥Telegram Group](https://t.me/swiftiesworld)** <br    />
+**[👥Telegram Group](https://t.me/swiftiesworld)** 
 
 
 
@@ -28,7 +28,7 @@
 >- *Movies (Ft. Taylor) and many more..*
 
 #### Shared Drive Link - **[Click Here](https://drive.google.com/drive/u/0/folders/0ALuQMgyR_7mcUk9PVA)**
-
+<br    />
 **🗃Total Size: 1.16 TB**
 **📂Sub Folders: 824**
 **📁Files: 6823**
