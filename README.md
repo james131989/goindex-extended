@@ -1,13 +1,6 @@
 ![Preview](https://telegra.ph/file/5fb562b73c1f6d732e474.png)
 # Swifties World 
 
-[![Channel: Swifties World](https://img.shields.io/badge/Author-cheems-blue.svg)](https://t.me/taylorSwift13fanpage)
-[![Group: Swifties Land](https://img.shields.io/badge/License-MIT-green.svg)](https://t.me/swiftiesworld)
-[![Discogrphy: channel](https://img.shields.io/github/repo-size/cheems/goindex-extended?color=2fc29d&label=Repo%20Size)](https://t.me/taylorflac)
-[![Last Commit](https://img.shields.io/github/last-commit/cheems/goindex-extended?label=Last%20Commit)]()
-[![Built with Cloudflare Workers](https://img.shields.io/badge/Built_with-Cloudflare%20Workers-1f425f?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAYAAAC5DOVpAAAABmJLR0QA/wD/AP+gvaeTAAADOUlEQVQ4jXVUz2scVRz/vNnN7qY16TY1LmJbYTHGUEIMafGgpTnoQUV7sfoHSGvv/qjSy2KhNIV4EBFjqYIo6sGIePJiEUGw2hpLU0xLYhOsoY0l1U12Z74/e5jsZCPtwDvMm/c+8/n1XsD/nvonw4fveWbiJbjtbM15vHKNfju2I+rI29rUTTcbKz575qv2vVH7S/zR8JOB5D2/fnELEKoAqjCtho7OvdgyyHBU4V6F2h6ofUFfPzFyVzCUNx3Nb+3ONadO98P9JoQAIYCbKDz4XDBid1G4CFwkb6bjdwRLJvfuh/moiyA4bZL5ny5DOAVTQnB5KHQNXVwDAkThrPviz3c/vwHMz4zmTeVEulABE9D0Z0NwWYC22MUobN9X9kSlxQ4iMJKTPjHSkYElS8lhsDzi3JKgcE6+hNrxjJ0kgMQ7ctv2TDkznAXOCoj2N6L4EAAE/+bxruZKcgVqFVeFqwGqcQ6hv3TowF+Y2TUFSQZhApgCiG40z7/bBZdONwPSsZRE3Bc16vFbLlLJJIrA2N7vfGV6IYSagVHLpAoBtHpfrvex341Tmalk7S3EOBJB5KCzprTTjxpMTrRMDYMHJmH2awamhMK2voedVVs/dxE4y8t5ZwXW5LkqoIZQCmFDZSQJUEplmgKONE1oKlMdboYILKfWu6NQohz/E7+dtf+XD14AxyMZMyHEf09dhkpurR5psiynw9JYf1exyFdcrWLEMFYIsbjZcOWpyT9QmroAagysswqLK+c+7nFIEZoG4GZLWpC+qPfITN1Jj2lM0EQgRDCWvLG+g83TB5GsDqz7JWgu/LzoSkVwZj7AUut5c/nfCAC6G/MTmsisJgQlgZHAFKNIVo6C40yeC8/TtfNDGUhqzUz39eVTWWlDDWLCNWWBsUDFUH706TnE9QegaYIwxersjw2o5rIERWAsr4cPwRvOZuX48qeudsHEgI4Sbd6+q9LOyphmafHSQFu34KI/9IzVv73jraER3nBzu3f3/qto3ipnXrnj1qXvS1BLK5GeSwlKr971Cto5vvpdCNFrnVvvX4TEcxCag9CcNP47m9z4s8gki8pyFaJnofpieZzPte+/DbyhqHE2i7F2AAAAAElFTkSuQmCC)](https://workers.cloudflare.com/)
-[![Written in JavaScript](https://img.shields.io/badge/Written_in-JavaScript-000?logo=javascript&logoColor=000&labelColor=F7DF1E)](https://www.javascript.com/)
-
 
 Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index your files on the browser on Cloudflare Workers.
 
