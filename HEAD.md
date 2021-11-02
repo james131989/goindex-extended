@@ -4,7 +4,7 @@
 
 **Archive of Taylor Content**
 
-**[🔈Telegram Channel](https://t.me/Taylorswift13fanpage)** &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;**[🎤Discography](https://t.me/taylorflac)**
+**[🔈Telegram Channel](https://t.me/Taylorswift13fanpage)** &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;**[🎤Discography](https://t.me/taylorflac)**
 
 **[👥Telegram Group](https://t.me/swiftiesworld)**
 
