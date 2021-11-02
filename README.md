@@ -15,7 +15,7 @@
 
 
 **📜Contents of the drive** 
-- *Songs (Tidal/ Qobuz/ Dolby)*
+>- *Songs (Tidal/ Qobuz/ Dolby)*
 - *Music Videos (4k/ ProRes/ 1080p)*
 - *Live HD Performances*
 - *World Tours*
