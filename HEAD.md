@@ -32,8 +32,7 @@
 **🗃Total Size: 1.16 TB**
 **📂Sub Folders: 824**
 **📁Files: 6823**
-&nbsp;&nbsp;&nbsp;&nbsp;
-### Created By [James](https://t.me/TayLife)
+&nbsp;&nbsp;&nbsp;&nbsp;**Created By [James](https://t.me/TayLife)**
 
 
 
