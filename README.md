@@ -24,9 +24,9 @@
 
 Shared Drive Link - **[Click Here](https://drive.google.com/drive/u/0/folders/0ALuQMgyR_7mcUk9PVA)**
 
-**🗃Total Size: 1.16 TB**
-**📂Sub Folders: 824**
-**📁Files: 6823**
+-**🗃Total Size: 1.16 TB**
+-**📂Sub Folders: 824**
+-**📁Files: 6823**
 
 
 
