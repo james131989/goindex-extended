@@ -16,11 +16,11 @@
 
 **📜Contents of the drive** 
 - *Songs (Tidal/ Qobuz/ Dolby)*
-*- Music Videos (4k/ ProRes/ 1080p)*
-*- Live HD Performances*
-*- World Tours*
-*- Unreleased Songs*
-*- Movies (Ft. Taylor) and many more..*
+- *Music Videos (4k/ ProRes/ 1080p)*
+- *Live HD Performances*
+- *World Tours*
+- *Unreleased Songs*
+- *Movies (Ft. Taylor) and many more..*
 
 Shared Drive Link - **[Click Here](https://drive.google.com/drive/u/0/folders/0ALuQMgyR_7mcUk9PVA)**
 
