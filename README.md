@@ -4,7 +4,8 @@
 
 **Archive of Taylor Content**
 
-### [Telegram Channel](https://t.me/Taylorswift13fanpage)  ### [Telegram Group](t.me/swiftiesworld)
+### [Telegram Channel](https://t.me/Taylorswift13fanpage)  
+### [Telegram Group](t.me/swiftiesworld)
 
 ### 🚨If you want to Access the Google drive of the arhive, follow the steps below
 
@@ -30,17 +31,6 @@
 **📁Files: 6823**
 
 
-
-## 🤝 Special Thanks & Credits
-
-### Source:
-- **[donwa](https://github.com/donwa)** : for writing such a great script
-- **[yanzai](https://github.com/yanzai) & all initial contributors** : for contributing to the project
-- **[5MayRain](https://github.com/5MayRain)** : for implementing Nexmoe theme
-
-### Wiki & Readme:
-- **[LeeluPradhan](https://github.com/LeeluPradhan)**
-- **[tks18](https://github.com/tks18)**
 
 
 
