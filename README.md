@@ -4,7 +4,7 @@
 
 **Archive of Taylor Content**
 
- ![t.me/taylorswift13fanpage](https://telegra.ph/file/b8ddb8554ff7d360c7e7e.pnghttps://telegra.ph/file/b8ddb8554ff7d360c7e7e.png "Telegram Channel")
+ [![Telegram Channel](https://telegra.ph/file/b8ddb8554ff7d360c7e7e.png)](https://t.me/Taylorswift13fanpage)
 
 ### 🚨If you want to Access the Google drive of the arhive, follow the steps below
 
