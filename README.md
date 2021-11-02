@@ -4,6 +4,8 @@
 
 **Archive of Taylor Content**
 
+ ![t.me/taylorswift13fanpage!](https://telegra.ph/file/b8ddb8554ff7d360c7e7e.pnghttps://telegra.ph/file/b8ddb8554ff7d360c7e7e.png "Telegram Channel")
+
 ### 🚨If you want to Access the Google drive of the arhive, follow the steps below
 
 1) Join this [google group](https://groups.google.com/g/swiftiesworld)
@@ -40,10 +42,7 @@
 - **[LeeluPradhan](https://github.com/LeeluPradhan)**
 - **[tks18](https://github.com/tks18)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Took some stuff from their repos for setting up the README.md file and the Wiki. So thanks! 😁
 
 
 
-## ⚖ LICENSE
 
-**_[GoIndex - Extended](https://github.com/cheems/goindex-extended) by [Cheems(AKA Dudu)](https://github.com/cheems/) is licensed under the [MIT License](https://opensource.org/licenses/MIT), which you can find in the [goindex-extended/LICENSE](https://github.com/cheems/goindex-extended/blob/master/LICENSE) file._**
