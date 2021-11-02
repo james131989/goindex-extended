@@ -4,7 +4,7 @@
 
 **Archive of Taylor Content**
 
-**[🔈Telegram Channel](https://t.me/Taylorswift13fanpage)**        **[🎤Discogrphy](https://t.me/taylorflac)**
+**[🔈Telegram Channel](https://t.me/Taylorswift13fanpage)**        **[🎤Discography](https://t.me/taylorflac)**
 
 **[👥Telegram Group](https://t.me/swiftiesworld)**
 
@@ -33,7 +33,7 @@
 **📂Sub Folders: 824**
 **📁Files: 6823**
 
-
+### Created By [James](https://t.me/TayLife)
 
 
 
