@@ -13,7 +13,6 @@
 #### ❗️It is important to join the [Group](https://groups.google.com/g/swiftiesworld) for accessing the google drive.
 
 
-
 **📜Contents of the drive** 
 >- *Songs (Tidal/ Qobuz/ Dolby)*
 >- *Music Videos (4k/ ProRes/ 1080p)*
