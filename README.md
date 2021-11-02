@@ -10,7 +10,7 @@
 
 2) Then check your [Shared Drive](https://drive.google.com/drive/u/0/shared-drives) section in the Google Drive app/Browser.
 
-**<p>❗️It is important to join the [Group](https://groups.google.com/g/swiftiesworld) for accessing the google drive.<p>**
+**❗️It is important to join the [Group](https://groups.google.com/g/swiftiesworld) for accessing the google drive.**
 
 
 **📜Contents of the drive** 
