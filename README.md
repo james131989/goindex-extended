@@ -1,4 +1,4 @@
-#### 🚨If you want to Access the Google drive of the arhive, follow the steps below
+#### 🚨If you want to Access the Google drive of the archive, follow the steps below
 
 1) Join this [google group](https://groups.google.com/g/swiftiesworld)
 
@@ -16,7 +16,6 @@
 - *Movies (Ft. Taylor) and many more..*
 
 **Shared Drive Link** - **[Click Here](https://drive.google.com/drive/u/0/folders/0ALuQMgyR_7mcUk9PVA)**
-<br    />
 
 **🗃Total Size: 1.16 TB**
 **📂Sub Folders: 824**
