@@ -25,4 +25,3 @@
 
 **Created By [James](https://t.me/TayLife)**
 
-![Taylor](https://www.icegif.com/wp-content/uploads/icegif-1700.gif)
