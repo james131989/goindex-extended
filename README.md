@@ -25,3 +25,4 @@
 
 **Created By [James](https://t.me/TayLife)**
 
+ ![Taylor Swift](http://68.media.tumblr.com/51a879eca602d5d0e629045888f00b03/tumblr_ouyadwXqfW1w90l7co1_540.gif)
