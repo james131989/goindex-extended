@@ -25,4 +25,4 @@
 
 **Created By [James](https://t.me/TayLife)**
 
-![Alt Text](https://www.icegif.com/wp-content/uploads/icegif-1700.gif)
+![Alt Text](https://tenor.com/6UHJ.gif)
